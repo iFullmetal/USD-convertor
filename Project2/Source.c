@@ -13,6 +13,10 @@ void grnToDolar() {
 		return 0;
 	}
 }
+void lalal() {
+
+
+}
 void dolarToGrn() {
 	printf("\nUSD:");
 	double grn = 27.1;
