@@ -14,7 +14,8 @@ void grnToDolar() {
 	}
 }
 void lalal() {
-
+	printf("lalal");
+	double grn = 27.1;
 
 }
 void dolarToGrn() {
